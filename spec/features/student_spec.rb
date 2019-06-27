@@ -1,4 +1,5 @@
 require 'rails_helper'
+require 'pry'
 
 describe 'Route to view' do
   it 'has an index page' do
